@@ -1,0 +1,27 @@
+customers
+SpaceX	John	Smith	Generic Rd.		Champaign	IL	61820	1000
+Ryanair	John	Smith	Generic Rd.		Champaign	IL	61820	1000
+Air France	John	Smith	Generic Rd.		Champaign	IL	61820	1000
+United Airlines	John	Smith	Generic Rd.		Champaign	IL	61820	1000
+Delta Airlines	John	Smith	Generic Rd.		Champaign	IL	61820	1000
+Alaska Airlines	John	Smith	Generic Rd.		Champaign	IL	61820	1000
+Hawaiian Airlines	John	Smith	Generic Rd.		Champaign	IL	61820	1000
+Jetblue	John	Smith	Generic Rd.		Champaign	IL	61820	1000
+Southwest Airlines	John	Smith	Generic Rd.		Champaign	IL	61820	1000
+Emirates	John	Smith	Generic Rd.		Champaign	IL	61820	1000
+
+
+vendors
+Collins Aerospace	1234	0.1	Generic Rd.		Champaign	IL	61820
+Insitu	1234	0.1	Generic Rd.		Champaign	IL	61820
+Honeywell	1234	0.1	Generic Rd.		Champaign	IL	61820
+Boeing	1234	0.1	Generic Rd.		Champaign	IL	61820
+Airbus	1234	0.1	Generic Rd.		Champaign	IL	61820
+Aerojet	1234	0.1	Generic Rd.		Champaign	IL	61820
+Lockheed Martin	1234	0.1	Generic Rd.		Champaign	IL	61820
+Raytheon	1234	0.1	Generic Rd.		Champaign	IL	61820
+
+employees
+Michael	Scott	Generic Rd.	Apt 1	Champaign	IL	61820	12345678	1	150000
+Jim	Halpert	Generic Rd.	Apt 1	Champaign	IL	61820	12345678	1	150000
+Pam	Halpert	Generic Rd.	Apt 1	Champaign	IL	61820	12345678	1	150000
